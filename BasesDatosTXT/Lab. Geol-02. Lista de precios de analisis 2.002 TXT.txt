@@ -1,0 +1,75 @@
+﻿I.-  PREPARACIÓN PETROGRÁFICA Y MINEROGRÁFICA
+
+COD.	DESCRIPCIÓN PRECIO						(BS.)
+	PP1 Corte de taco para sección petrográfica 			4.560,00
+PP2	Sección petrográfica normal (5,5 x 3,0 cm) de roca deleznable	10.000,00
+PP3	Sección petrográfica grande (8,5 x 5,5 cm) de roca deleznable	14.000,00
+PP4	Sección petrográfica normal (5,5 x 3,0 cm) de roca consistente	9.400,00
+PP5	Sección petrográfica grande (8,5 x 5,5 cm) de roca consistente	12.500,00
+PP6	Sección petrográfica impregnada en vacío (no incluye la resina)	10.800,00
+PP7	Sección petrográfica a impregnada y teñida (no incluye la resina, ni el colorante)	11.800,00
+PP8	Sección minerográfica o metalográfica en montura de plástico	15.600,00
+
+II.-  ANÁLISIS PETROGRÁFICO
+
+COD.	DESCRIPCIÓN										PRECIO (BS.)
+AP1	Análisis petrográfico completo (no incluye la elaboración de la sección petrográfica)	26.500,00
+AP2	Fotomicrografías (no incluye la película fotográfica)					2.200,00
+
+
+III.-  PREPARACIÓNES GEOLÓGICAS (MINERALÓGICAS Y MICROPALEONTOLOGICAS)
+
+COD.	DESCRIPCIÓN							PRECIO (BS.)
+PG1	Roca  cortada (por corte)					4.500,00
+PG2	Roca pulida (por cara)						14.200,00
+PG3	Trituración sencilla (por muestra de mano)			3.850,00
+PG4	Pulverización (hasta 500 gr)					4.600,00
+PG5	Pulverización a menos 325 mesh (cada 100 gr. de muestra)	12.500,00
+PG6	Cuarteo								2.400,00
+PG7	Tamizado con pesada del residuo (por tamiz)			4.500,00
+PG8	Tamizado utilizando 5 tamices (Porcentaje e Histograma de abundancia)	33.000,00
+PG9	Disgregación ultrasónica de rocas y sedimentos			3.900,00
+PG10	Solubilización de minerales (cada 5 gr de muestra)		3.200,00
+PG11	Separación de minerales con el Separador Magnético Frantz (cada 5 gr de muestra)	8.400,00
+PG12	Separación de minerales bajo lupa binocular (por mineral)	7.000,00
+
+PG13	Separación granulometrica en fracciones arena, limo y arcilla	18.000,00
+(Incluye homogeneización, cuarteo, disgregación ultrasónica, tamizado, decantación y centrifugado)
+
+PG14	Separación de minerales pesados con Bromoformo (cada 5 gr de muestra)	12.500,00
+PG15	Montaje de minerales pesados en laminas de vidrio		5.000,00
+PG16	Lavado de lutitas para análisis Micropaleontológico		14.000,00
+PG17	Separación y montaje de Microfósiles (Picking)			25.000,00
+
+
+IV.- CONCENTRACIÓN DE FRACCIONES TAMAÑO ARENA, LIMOS Y ARCILLA PARA ESTUDIO POR DRX
+
+COD.	DESCRIPCIÓN									PRECIO (BS.)
+DRX-T1	Tratamiento básico para mineralogía cualitativa de arcillas.			23.000,00
+(Floculación, dispersión ultrasónica, decantación de arena y limos, centrifugado de fracción menor de 2 micras y preparación de 2 laminas orientadas, una de ellas glicolada.)
+
+DRX-T2	Tratamiento químico de rocas para mineralogía semicuantitativa de arcillas.	47.000,00
+DRX-T3	Tratamiento químico y térmico de lutitas y sedimentos para mineralogía semicuantitativa de arcillas. Separación de fracciones granulometricas.									47.000,00
+
+
+V.- CORRIDA DE DIFRACTOGRAMAS
+
+COD.	DESCRIPCIÓN									PRECIO (BS.)
+DRX-C1	Corrida en condiciones de rutina de 4° 60° 2
+(radiación de cobre; velocidad del goniometro 0.1° 2/s; velocidad del registrador 10 mm/°2; potencial del generador 40 Kv, 20 mA;  C.T. 1s; ventana 0,2 mm; escala gráfica 1 x 104 cps)						19.000,00
+DRX-C2	Corrida parcial en condiciones de rutina por cada 1° 2				500,00
+DRX-C3	Corrida parcial en condiciones especiales o velocidad lenta por cada 1° 2.
+(radiación de cobre; velocidad del goniometro 0.002° 2/s; velocidad del registrador 50 mm/°2; potencial del generador 40 Kv, 20 mA;  C.T. 5s; ventana 0,3 mm; escala gráfica: 1 x 104 cps)						12.000,00
+
+
+VI.-  ANÁLISIS MINERALÓGICO Ó DIFRACTOMETRICO
+
+COD.	DESCRIPCIÓN										PRECIO (BS.)
+DRX-A1	Análisis mineralógico cualitativo de muestra total con identificación de la 1era  fase cristalina. (incluye la preparación de la muestra)	23.000,00
+DRX-A2	Identificación de fases cristalinas adicionales						6.500,00
+DRX-A3	Elaboración de curva de calibración para análisis semicuantitativo de muestra binaria	100.000,00
+DRX-A4	Análisis semicuantitativo de la fracción menor a 2 micras. (incluye preparación de la muestra según código DRX-T1)
+												78.000,00
+DRX-A5	Análisis semicuantitativo de roca total y la fracción arcilla. (incluye el tratamiento indicado en el código DRX-T2 ó DRX-T3)
+												150.000,00
+

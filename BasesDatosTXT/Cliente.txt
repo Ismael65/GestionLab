@@ -1,0 +1,5 @@
+03/10/2020 / 123456 / Pedro / Perez / 0426 XXX xx xx / 0212 XXX xx xx / pedroperez@gmail.com / Sol# 20-01
+03/10/2020 / 963741 / Maria / Gomez / 0426 XXX xx xx / 0212 XXX xx xx / mariagomez@gmail.com / Sol# 20-02
+03/10/2020 / 357684 / Carlos / Zapata / 0426 XXX xx xx / 0212 XXX xx xx / carloszapata@gmail.com / Sol# 20-03
+04/10/2020 / 357159 / Juana / de Arco / 0426 XXX xx xx / 0212 XXX xx xx / juannadearco@gmail.com / Sol# 20-06
+18/10/2020 / 987654321 / Pedro Pablo / Perez / 0412 XXX xx xx / 0212 XXX xx xx / pedropabloperez@gmail.com / Sol# 20-20
