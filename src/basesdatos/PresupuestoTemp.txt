@@ -1,0 +1,16 @@
+PP-01	Corte de taco para sección petrográfica								3,60
+PP-02	Sección petrográfica normal (5,5 x 3,0 cm) de roca deleznable					8,00
+PP-03	Sección petrográfica normal (5,5 x 3,0 cm) de roca consistente					6,16
+PP-04	Sección petrográfica impregnada en vacío (no incluye la resina)					8,58
+PP-05	Sección petrográfica impregnada y teñida (no incluye la resina ni el colorante			9,32
+PP-06	Sección minerográfica en montura de plástico							12,40
+PP-07	Sección petrográfica de material no consolidado (arenas, etc.)					8,00
+PP-08	Sección delgada											12,40
+DRX-01	Una preparación de muestras									3,81
+DRX-02	Un Análisis cualitativo (sin límite de fases)							13,86
+DRX-03	Un Análisis semi-cuantitativo (sin límite de fases)						36,72
+DRX-04	Una caracterización de arcillas									17,64
+DRX-05	Una corrida en condiciones de rutina								8,58
+DRX-06	Una corrida en condiciones especiales								14,78
+DRX-07	Análisis de alta resolución en muestras naturales						19,07
+DRX-08	Análisis de alta resolución en muestras sinteticas						23,84
