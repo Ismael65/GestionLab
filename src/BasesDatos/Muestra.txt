@@ -1,1 +1,0 @@
-3  Muestra 1, Muestra 2, Muestra 3  Geologica  Agua  Suelo  Polvo    Polvo cosmico  Barinas    Petrografia  DRX  MEB  FRX  ICP  Quimico  -2  m-1, m-2  Geologica  Agua  Suelo  Polvo    Sangre  Carabobo    Petrografia  DRX  MEB  FRX  ICP  Quimico  -5  1, 2, 3, 4, 5,  Geologica  Agua  Suelo  Polvo    -  Trujillo    Petrografia  DRX  MEB  FRX  ICP  Quimico  -
